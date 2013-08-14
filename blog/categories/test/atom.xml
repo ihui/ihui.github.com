@@ -4,7 +4,7 @@
   <title><![CDATA[Category: test | My Octopress Blog]]></title>
   <link href="http://ihui.github.io/blog/categories/test/atom.xml" rel="self"/>
   <link href="http://ihui.github.io/"/>
-  <updated>2013-08-13T22:18:36+08:00</updated>
+  <updated>2013-08-14T20:46:38+08:00</updated>
   <id>http://ihui.github.io/</id>
   <author>
     <name><![CDATA[Your Name]]></name>
@@ -20,7 +20,7 @@
     <id>http://ihui.github.io/blog/2013/08/13/2013-08-13</id>
     <content type="html"><![CDATA[<h1>Welcome</h1>
 
-<p>```this is the first item</p>
+<p>this is the first item</p>
 ]]></content>
   </entry>
   
