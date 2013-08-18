@@ -2,10 +2,10 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 
   <title><![CDATA[ihui words]]></title>
-  <link href="http://www.geoway.org/atom.xml" rel="self"/>
-  <link href="http://www.geoway.org/"/>
-  <updated>2013-08-18T08:51:34+08:00</updated>
-  <id>http://www.geoway.org/</id>
+  <link href="http://geoway.org/atom.xml" rel="self"/>
+  <link href="http://geoway.org/"/>
+  <updated>2013-08-18T08:53:43+08:00</updated>
+  <id>http://geoway.org/</id>
   <author>
     <name><![CDATA[ihui]]></name>
     
@@ -15,9 +15,9 @@
   
   <entry>
     <title type="html"><![CDATA[那一天]]></title>
-    <link href="http://www.geoway.org/blog/2013/08/14/the-day/"/>
+    <link href="http://geoway.org/blog/2013/08/14/the-day/"/>
     <updated>2013-08-14T21:44:00+08:00</updated>
-    <id>http://www.geoway.org/blog/2013/08/14/the-day</id>
+    <id>http://geoway.org/blog/2013/08/14/the-day</id>
     <content type="html"><![CDATA[<p>那一天<br/>
 瑟瑟秋风<br/>
 你目送我远行；<br/>
@@ -41,9 +41,9 @@
   
   <entry>
     <title type="html"><![CDATA[Welcome]]></title>
-    <link href="http://www.geoway.org/blog/2013/08/13/2013-08-13/"/>
+    <link href="http://geoway.org/blog/2013/08/13/2013-08-13/"/>
     <updated>2013-08-13T19:44:00+08:00</updated>
-    <id>http://www.geoway.org/blog/2013/08/13/2013-08-13</id>
+    <id>http://geoway.org/blog/2013/08/13/2013-08-13</id>
     <content type="html"><![CDATA[<h1>Welcome</h1>
 
 <p>this is the first item</p>
