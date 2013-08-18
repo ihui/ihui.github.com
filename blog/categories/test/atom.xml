@@ -2,10 +2,10 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 
   <title><![CDATA[Category: test | ihui words]]></title>
-  <link href="http://ihui.github.io/blog/categories/test/atom.xml" rel="self"/>
-  <link href="http://ihui.github.io/"/>
-  <updated>2013-08-14T22:11:27+08:00</updated>
-  <id>http://ihui.github.io/</id>
+  <link href="http://www.geoway.org/blog/categories/test/atom.xml" rel="self"/>
+  <link href="http://www.geoway.org/"/>
+  <updated>2013-08-18T08:51:34+08:00</updated>
+  <id>http://www.geoway.org/</id>
   <author>
     <name><![CDATA[ihui]]></name>
     
@@ -15,9 +15,9 @@
   
   <entry>
     <title type="html"><![CDATA[Welcome]]></title>
-    <link href="http://ihui.github.io/blog/2013/08/13/2013-08-13/"/>
+    <link href="http://www.geoway.org/blog/2013/08/13/2013-08-13/"/>
     <updated>2013-08-13T19:44:00+08:00</updated>
-    <id>http://ihui.github.io/blog/2013/08/13/2013-08-13</id>
+    <id>http://www.geoway.org/blog/2013/08/13/2013-08-13</id>
     <content type="html"><![CDATA[<h1>Welcome</h1>
 
 <p>this is the first item</p>

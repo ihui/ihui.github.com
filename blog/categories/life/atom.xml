@@ -2,10 +2,10 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 
   <title><![CDATA[Category: life | ihui words]]></title>
-  <link href="http://ihui.github.io/blog/categories/life/atom.xml" rel="self"/>
-  <link href="http://ihui.github.io/"/>
-  <updated>2013-08-14T22:11:27+08:00</updated>
-  <id>http://ihui.github.io/</id>
+  <link href="http://www.geoway.org/blog/categories/life/atom.xml" rel="self"/>
+  <link href="http://www.geoway.org/"/>
+  <updated>2013-08-18T08:51:34+08:00</updated>
+  <id>http://www.geoway.org/</id>
   <author>
     <name><![CDATA[ihui]]></name>
     
@@ -15,9 +15,9 @@
   
   <entry>
     <title type="html"><![CDATA[那一天]]></title>
-    <link href="http://ihui.github.io/blog/2013/08/14/the-day/"/>
+    <link href="http://www.geoway.org/blog/2013/08/14/the-day/"/>
     <updated>2013-08-14T21:44:00+08:00</updated>
-    <id>http://ihui.github.io/blog/2013/08/14/the-day</id>
+    <id>http://www.geoway.org/blog/2013/08/14/the-day</id>
     <content type="html"><![CDATA[<p>那一天<br/>
 瑟瑟秋风<br/>
 你目送我远行；<br/>

@@ -1,4 +1,4 @@
 User-agent: *
 Disallow: 
 
-Sitemap: http://ihui.github.io/sitemap.xml 
+Sitemap: http://www.geoway.org/sitemap.xml 
