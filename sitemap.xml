@@ -1,27 +1,23 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <urlset xmlns='http://www.sitemaps.org/schemas/sitemap/0.9'>
     <url>
-        <loc>http://geoway.org/blog/2013/08/13/2013-08-13/</loc>
-        <lastmod>2013-08-14T20:45:53+08:00</lastmod>
-    </url>
-    <url>
-        <loc>http://geoway.org/blog/2013/08/14/the-day/</loc>
+        <loc>http://www.geoway.org/blog/2013/08/14/the-day/</loc>
         <lastmod>2013-08-14T21:47:50+08:00</lastmod>
     </url>
     <url>
-        <loc>http://geoway.org/about/</loc>
+        <loc>http://www.geoway.org/about/</loc>
         <lastmod>2013-08-14T22:35:06+08:00</lastmod>
     </url>
     <url>
-        <loc>http://geoway.org/blog/archives/</loc>
+        <loc>http://www.geoway.org/blog/archives/</loc>
         <lastmod>2013-08-14T21:47:50+08:00</lastmod>
     </url>
     <url>
-        <loc>http://geoway.org/</loc>
+        <loc>http://www.geoway.org/</loc>
         <lastmod>2013-08-14T21:47:50+08:00</lastmod>
     </url>
     <url>
-        <loc>http://geoway.org/robots.txt</loc>
+        <loc>http://www.geoway.org/robots.txt</loc>
         <lastmod>2013-08-13T20:56:07+08:00</lastmod>
     </url>
 </urlset>
