@@ -4,7 +4,7 @@
   <title><![CDATA[Category: programming | Randy WebBoard]]></title>
   <link href="http://www.geoway.org/blog/categories/programming/atom.xml" rel="self"/>
   <link href="http://www.geoway.org/"/>
-  <updated>2013-09-10T20:34:29+08:00</updated>
+  <updated>2013-11-02T18:25:02+01:00</updated>
   <id>http://www.geoway.org/</id>
   <author>
     <name><![CDATA[Randy]]></name>
@@ -16,7 +16,7 @@
   <entry>
     <title type="html"><![CDATA[matlab text function]]></title>
     <link href="http://www.geoway.org/blog/2013/08/27/matlab-text/"/>
-    <updated>2013-08-27T22:12:00+08:00</updated>
+    <updated>2013-08-27T22:12:00+02:00</updated>
     <id>http://www.geoway.org/blog/2013/08/27/matlab-text</id>
     <content type="html"><![CDATA[<p>As you know, it is easy to plot a set of 2D discrete points with matlab <em>plot</em> function. I usually do many plots to find data&rsquo;s implication, terrace slop, for example. When the slop changes abruptly at a point,  that point should be found. It&rsquo;s not a easy work when the amount of points is huge without any label. So, the third column (labels) are printed for every point is a good way to look for that point.</p>
 
