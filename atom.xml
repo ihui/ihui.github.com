@@ -4,7 +4,7 @@
   <title><![CDATA[Randy WebBoard]]></title>
   <link href="http://www.geoway.org/atom.xml" rel="self"/>
   <link href="http://www.geoway.org/"/>
-  <updated>2013-11-12T17:41:57+01:00</updated>
+  <updated>2014-01-07T00:46:09+08:00</updated>
   <id>http://www.geoway.org/</id>
   <author>
     <name><![CDATA[Randy]]></name>
@@ -14,9 +14,23 @@
 
   
   <entry>
+    <title type="html"><![CDATA[Where is my home]]></title>
+    <link href="http://www.geoway.org/blog/2014/01/07/where-is-my-home/"/>
+    <updated>2014-01-07T00:07:00+08:00</updated>
+    <id>http://www.geoway.org/blog/2014/01/07/where-is-my-home</id>
+    <content type="html"><![CDATA[<p><span class='caption-wrapper'><img class='caption' src='http://www.geoway.org/images/shaoshanlotus.jpg' width='' height='' title='韶山莲'><span class='caption-text'>韶山莲</span></span>
+人是迁徙的动物，无论是自愿还是被迫，从你出生开始，你必然注定要离开你的出生地，即使是一小会儿。常言说：读万卷书，行万里路。更是鼓励人四处游移，探索陌生的世界。年轻的时候，意气风发，斗志昂扬，非常容易受到鼓动，“男儿志在四方”，离开生你的故乡，到外面的世界，追求你的志向。</p>
+
+<p>所谓的志向和理想，其实并不是多么纯净的东西，而是每个人自私的产物。离开故土，奔向“更大”的世界，其实是你不甘默默无闻，想找一个可以使你名扬天下的捷径，你明白外面世界可能会给你更多的这种机会，因此你才义无反顾的“离家出走”。你并不知晓，在你的身后有一双充满哀求的泪眼在凝望着你，那些无奈和忧伤只有在你老弱时才能懂得。</p>
+
+<p>离开故土，跌跌撞撞走过了几十年，到过许多地方，你曾把许多他乡当作故乡。但你也总不能摆脱是外乡人的标签，他乡终究是他乡，你的故乡只有一个，那才是你真正的家，即使你少幼就离开了她，但“叶落归根”的情怀总在你心头缠绕。</p>
+]]></content>
+  </entry>
+  
+  <entry>
     <title type="html"><![CDATA[Rains in Strasbourg]]></title>
     <link href="http://www.geoway.org/blog/2013/11/11/rains-in-strasbourg/"/>
-    <updated>2013-11-11T11:33:00+01:00</updated>
+    <updated>2013-11-11T11:33:00+08:00</updated>
     <id>http://www.geoway.org/blog/2013/11/11/rains-in-strasbourg</id>
     <content type="html"><![CDATA[<p><span class='caption-wrapper'><img class='caption' src='http://www.geoway.org/images/rains-strasbourg.jpg' width='' height='' title='Raining'><span class='caption-text'>Raining</span></span><br/>
 来到斯特拉斯堡已经三周，除了这里被护城河包围着不算大的市区、低矮的古建筑、便利的交通、幽静的环境外，给我印象最深的就是这里的雨了。由于长期生活在雨水较少的北方，属于<a href="http://zh.wikipedia.org/wiki/%E6%96%AF%E7%89%B9%E6%8B%89%E6%96%AF%E5%A0%A1">温带半大陆性气候</a>的斯堡较多的雨水，给我的感觉是这里几乎每天都在下雨。这不昨天又是下了一天的雨，今天近10点钟的时候，太阳才从云层中露出来。而这场雨真正的将冬天带来的，气温从前几点的十六七度骤降到六七度。</p>
@@ -32,7 +46,7 @@
   <entry>
     <title type="html"><![CDATA[Dark night in Strasbourg]]></title>
     <link href="http://www.geoway.org/blog/2013/11/02/dark-night-in-strasbourg/"/>
-    <updated>2013-11-02T17:45:00+01:00</updated>
+    <updated>2013-11-02T17:45:00+08:00</updated>
     <id>http://www.geoway.org/blog/2013/11/02/dark-night-in-strasbourg</id>
     <content type="html"><![CDATA[<p><span class='caption-wrapper'><img class='caption' src='http://www.geoway.org/images/strasbourg.jpg' width='' height='' title='Night'><span class='caption-text'>Night</span></span><br/>
 由于冬令时的原因，斯特拉斯堡的夜晚来的非常快，现在这个时节整个城市五点左右就基本上笼罩在黑幕之中。</p>
@@ -50,7 +64,7 @@
   <entry>
     <title type="html"><![CDATA[Happy Teachers Day]]></title>
     <link href="http://www.geoway.org/blog/2013/09/10/happy-teachers-day/"/>
-    <updated>2013-09-10T20:00:00+02:00</updated>
+    <updated>2013-09-10T20:00:00+08:00</updated>
     <id>http://www.geoway.org/blog/2013/09/10/happy-teachers-day</id>
     <content type="html"><![CDATA[<p>今天，9月10日，中国的教师节。向所有辛勤耕耘的老师们致敬。</p>
 
@@ -65,7 +79,7 @@
   <entry>
     <title type="html"><![CDATA[Your Behaviour]]></title>
     <link href="http://www.geoway.org/blog/2013/09/02/your-behaviour/"/>
-    <updated>2013-09-02T21:01:00+02:00</updated>
+    <updated>2013-09-02T21:01:00+08:00</updated>
     <id>http://www.geoway.org/blog/2013/09/02/your-behaviour</id>
     <content type="html"><![CDATA[<p><span class='caption-wrapper'><img class='caption' src='http://www.geoway.org/images/miyun.JPG' width='' height='' title='夕照西山'><span class='caption-text'>夕照西山</span></span>
 在平常的工作生活中，每个人都应该得到别人的尊重，也应尊重别人。你的言行经常刺痛别人的话，别人也不会对你一直忍让，即使你有至高的社会权利。</p>
@@ -81,7 +95,7 @@
   <entry>
     <title type="html"><![CDATA[matlab text function]]></title>
     <link href="http://www.geoway.org/blog/2013/08/27/matlab-text/"/>
-    <updated>2013-08-27T22:12:00+02:00</updated>
+    <updated>2013-08-27T22:12:00+08:00</updated>
     <id>http://www.geoway.org/blog/2013/08/27/matlab-text</id>
     <content type="html"><![CDATA[<p>As you know, it is easy to plot a set of 2D discrete points with matlab <em>plot</em> function. I usually do many plots to find data&rsquo;s implication, terrace slop, for example. When the slop changes abruptly at a point,  that point should be found. It&rsquo;s not a easy work when the amount of points is huge without any label. So, the third column (labels) are printed for every point is a good way to look for that point.</p>
 
@@ -99,7 +113,7 @@ end</p></blockquote>
   <entry>
     <title type="html"><![CDATA[Myth Place]]></title>
     <link href="http://www.geoway.org/blog/2013/08/27/myth-place/"/>
-    <updated>2013-08-27T15:09:00+02:00</updated>
+    <updated>2013-08-27T15:09:00+08:00</updated>
     <id>http://www.geoway.org/blog/2013/08/27/myth-place</id>
     <content type="html"><![CDATA[<p><span class='caption-wrapper'><img class='caption' src='http://www.geoway.org/images/lost_horizon.jpg' width='' height='' title='《Lost Horizon》'><span class='caption-text'>《Lost Horizon》</span></span> <br/>
 一个青藏高原南端的神秘峡谷，隐藏着一处“世外桃源”，很难有外人能到达那里。这里的藏人信奉佛教，热衷中庸之道。或许是这些信念，让他们内心平和，加之优美的自然环境，使得他们都能长寿。</p>
@@ -113,7 +127,7 @@ end</p></blockquote>
   <entry>
     <title type="html"><![CDATA[平静的活着]]></title>
     <link href="http://www.geoway.org/blog/2013/08/24/peace-life/"/>
-    <updated>2013-08-24T21:11:00+02:00</updated>
+    <updated>2013-08-24T21:11:00+08:00</updated>
     <id>http://www.geoway.org/blog/2013/08/24/peace-life</id>
     <content type="html"><![CDATA[<p><span class='caption-wrapper'><img class='caption' src='http://www.geoway.org/images/ckxz.jpg' width='' height='' title='《突然就走到了西藏》'><span class='caption-text'>《突然就走到了西藏》</span></span> <br/>
 前些日子在Amazon.cn上买了本陈坤的《突然就走到了西藏》，零零散散的两天时间读完。陈坤是我比较喜欢的演员之一，有些人第一次看到就会非常有好感。只看过他演的《画皮》系列，《让子弹飞》，《花木兰》，每一部都饰演不同风格的角色，自我感觉演技还不错（虽然我看的电影不多）。</p>
@@ -129,7 +143,7 @@ end</p></blockquote>
   <entry>
     <title type="html"><![CDATA[学习游泳记]]></title>
     <link href="http://www.geoway.org/blog/2013/08/20/swimming-card/"/>
-    <updated>2013-08-20T15:14:00+02:00</updated>
+    <updated>2013-08-20T15:14:00+08:00</updated>
     <id>http://www.geoway.org/blog/2013/08/20/swimming-card</id>
     <content type="html"><![CDATA[<p><img src="http://www.geoway.org/images/watercube.jpg">
 自年初开始学习游泳以来，断断续续的游了十多次，上周终于在水立方拿到深水证了，非常感谢我的游泳教练Fei sir，他的不厌其烦，认真纠正我的每一个动作，特别是他潜入水中，用手抓住我的脚，让我能够感知到正确的动作，别且他不断给予我鼓励，使我从怕水到完全适应它，征服它。</p>
@@ -155,7 +169,7 @@ Fei sir是我能学好游泳（目前确切的说只是“蛙泳”）最大的�
   <entry>
     <title type="html"><![CDATA[那一天]]></title>
     <link href="http://www.geoway.org/blog/2013/08/14/the-day/"/>
-    <updated>2013-08-14T21:44:00+02:00</updated>
+    <updated>2013-08-14T21:44:00+08:00</updated>
     <id>http://www.geoway.org/blog/2013/08/14/the-day</id>
     <content type="html"><![CDATA[<p>那一天<br/>
 瑟瑟秋风<br/>
