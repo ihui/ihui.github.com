@@ -1,0 +1,6 @@
+---
+layout: page
+title: "404 Error"
+footer: false
+---
+The page you are  for is not here anymore.
