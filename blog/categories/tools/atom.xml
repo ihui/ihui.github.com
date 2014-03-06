@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[Category: tools | Randy WebBoard]]></title>
+  <link href="http://www.geoway.org/blog/categories/tools/atom.xml" rel="self"/>
+  <link href="http://www.geoway.org/"/>
+  <updated>2014-03-06T08:09:52+08:00</updated>
+  <id>http://www.geoway.org/</id>
+  <author>
+    <name><![CDATA[Randy]]></name>
+    
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+  <entry>
+    <title type="html"><![CDATA[A earthquake survey application]]></title>
+    <link href="http://www.geoway.org/blog/2014/03/03/a-earthquake-survey-application/"/>
+    <updated>2014-03-03T08:50:00+08:00</updated>
+    <id>http://www.geoway.org/blog/2014/03/03/a-earthquake-survey-application</id>
+    <content type="html"><![CDATA[<p>George Papathanassiou et al. created a good application for Android system <a href="http://earthquakegeosurvey.weebly.com/">Earthquake Geo Survey</a>. Now its version is 1.0. You can document many features of rupter related with earthquakes including picture, and which can be transfered into GIS application when you come back from field. <br/>
+download address: <a href="https://play.google.com/store/apps/details?id=org.inquaterpro.seismicsurveyapp&amp;feature=search_result#?t=W251bGwsMSwxLDEsIm9yZy5pbnF1YXRlcnByby5zZWlzbWljc3VydmV5YXBwIl0.">Google Play</a></p>
+
+<p>looking forward iOS version</p>
+]]></content>
+  </entry>
+  
+</feed>

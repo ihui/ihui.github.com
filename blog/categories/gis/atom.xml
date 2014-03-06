@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[Category: GIS | Randy WebBoard]]></title>
+  <link href="http://www.geoway.org/blog/categories/gis/atom.xml" rel="self"/>
+  <link href="http://www.geoway.org/"/>
+  <updated>2014-03-06T08:09:52+08:00</updated>
+  <id>http://www.geoway.org/</id>
+  <author>
+    <name><![CDATA[Randy]]></name>
+    
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+  <entry>
+    <title type="html"><![CDATA[arcgis Dforrt.dll]]></title>
+    <link href="http://www.geoway.org/blog/2014/01/25/arcgis-dforrt-dot-dll/"/>
+    <updated>2014-01-25T15:18:00+08:00</updated>
+    <id>http://www.geoway.org/blog/2014/01/25/arcgis-dforrt-dot-dll</id>
+    <content type="html"><![CDATA[<p>You may get the error message like"visual fortran run-time error" after installing ArcGIS. You can replace the Dforrt.dll in \ArcGIS\Desktop10.0\Bin with a new one.</p>
+
+<p>reference: <a href="http://www.cnblogs.com/chenyuming507950417/p/3504347.html">http://www.cnblogs.com/chenyuming507950417/p/3504347.html</a></p>
+]]></content>
+  </entry>
+  
+</feed>

@@ -4,7 +4,7 @@
   <title><![CDATA[Randy WebBoard]]></title>
   <link href="http://www.geoway.org/atom.xml" rel="self"/>
   <link href="http://www.geoway.org/"/>
-  <updated>2014-01-17T21:51:37+08:00</updated>
+  <updated>2014-03-06T08:09:52+08:00</updated>
   <id>http://www.geoway.org/</id>
   <author>
     <name><![CDATA[Randy]]></name>
@@ -12,6 +12,43 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[A earthquake survey application]]></title>
+    <link href="http://www.geoway.org/blog/2014/03/03/a-earthquake-survey-application/"/>
+    <updated>2014-03-03T08:50:00+08:00</updated>
+    <id>http://www.geoway.org/blog/2014/03/03/a-earthquake-survey-application</id>
+    <content type="html"><![CDATA[<p>George Papathanassiou et al. created a good application for Android system <a href="http://earthquakegeosurvey.weebly.com/">Earthquake Geo Survey</a>. Now its version is 1.0. You can document many features of rupter related with earthquakes including picture, and which can be transfered into GIS application when you come back from field. <br/>
+download address: <a href="https://play.google.com/store/apps/details?id=org.inquaterpro.seismicsurveyapp&amp;feature=search_result#?t=W251bGwsMSwxLDEsIm9yZy5pbnF1YXRlcnByby5zZWlzbWljc3VydmV5YXBwIl0.">Google Play</a></p>
+
+<p>looking forward iOS version</p>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[Wget in Windows]]></title>
+    <link href="http://www.geoway.org/blog/2014/01/25/wget-in-windows/"/>
+    <updated>2014-01-25T15:22:00+08:00</updated>
+    <id>http://www.geoway.org/blog/2014/01/25/wget-in-windows</id>
+    <content type="html"><![CDATA[<p>Wget is a useful download tool in Linux. You can also use it in Windows.</p>
+
+<p>reference:<br/>
+<a href="http://www.2cto.com/os/201212/175593.html">http://www.2cto.com/os/201212/175593.html</a> <br/>
+<a href="http://users.ugent.be/~bpuype/wget/  ">http://users.ugent.be/~bpuype/wget/  </a>
+<a href="http://www.gnu.org/software/wget/manual/wget.html">http://www.gnu.org/software/wget/manual/wget.html</a></p>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[arcgis Dforrt.dll]]></title>
+    <link href="http://www.geoway.org/blog/2014/01/25/arcgis-dforrt-dot-dll/"/>
+    <updated>2014-01-25T15:18:00+08:00</updated>
+    <id>http://www.geoway.org/blog/2014/01/25/arcgis-dforrt-dot-dll</id>
+    <content type="html"><![CDATA[<p>You may get the error message like&#8221;visual fortran run-time error&#8221; after installing ArcGIS. You can replace the Dforrt.dll in \ArcGIS\Desktop10.0\Bin with a new one.</p>
+
+<p>reference: <a href="http://www.cnblogs.com/chenyuming507950417/p/3504347.html">http://www.cnblogs.com/chenyuming507950417/p/3504347.html</a></p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[A Political Class by Qingui]]></title>
