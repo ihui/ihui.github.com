@@ -4,7 +4,7 @@
   <title><![CDATA[Category: GIS | Randy WebBoard]]></title>
   <link href="http://www.geoway.org/blog/categories/gis/atom.xml" rel="self"/>
   <link href="http://www.geoway.org/"/>
-  <updated>2014-03-06T22:51:22+08:00</updated>
+  <updated>2014-04-28T09:11:17+08:00</updated>
   <id>http://www.geoway.org/</id>
   <author>
     <name><![CDATA[Randy]]></name>
@@ -12,6 +12,36 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Sync your Google Earth data]]></title>
+    <link href="http://www.geoway.org/blog/2014/04/28/sync-your-google-earth-data/"/>
+    <updated>2014-04-28T08:54:00+08:00</updated>
+    <id>http://www.geoway.org/blog/2014/04/28/sync-your-google-earth-data</id>
+    <content type="html"><![CDATA[<p>Do you work lot with Google earth in different computers? and need to tranfer your data such as palcemarkers or lines or area from one to another with USB key? I think you like me want Google Earth to sync them automatically for us. But it does not.</p>
+
+<p>Some guys use cloud services to backup their Google earth data, and fetch data from cloud  on different computers. It&rsquo;s seem like not a bad solution. There is another <a href="http://productforums.google.com/forum/#!topic/earth/gaH1BgwirJk">clever method</a> which use hard link between directory.</p>
+
+<p>Here are steps what he follow:<br/>
+`I use Dropbox and the MKLINK dos-command to sync the Myplaces.kml fille between computers. This is how I did it (for Windows 7):</p>
+
+<ul>
+<li><p>close GE in case it is running</p></li>
+<li><p>make a Google Earth subdir in your Dropbox folder. For example: &ldquo;C:\Users[your user-id]\AppData\LocalLow\Dropbox\GoogleEarth\&rdquo;</p></li>
+<li><p>IMPORTANT: the Dropbox subdir MUST be on the same drive as the original GE subdir!</p></li>
+<li><p>Windows 7: go to &ldquo;C:\Users[your user-id]\AppData\LocalLow\Google\GoogleEarth&rdquo;</p></li>
+<li>copy Myplaces.kml to the Dropbox folder &ldquo;C:\Users[your user-id]\AppData\LocalLow\Dropbox\GoogleEarth\&rdquo;</li>
+<li>make a backup of your Myplaces.kml and store it in a safe location as a backup in case you screw up</li>
+<li>delete Myplaces.kml in &ldquo;C:\Users[your user-id]\AppData\LocalLow\Google\GoogleEarth&rdquo;</li>
+<li>go to the Start menu, type CMD in the search box, do NOT hit enter</li>
+<li>right-click CMD.EXE and click on &lsquo;run as administrator&rsquo;. you will now get the DOS box</li>
+<li><p>type MKLINK /H &ldquo;C:\Users[your user-id]\AppData\LocalLow\Google\GoogleEarth\myplaces.kml&rdquo; &ldquo;C:\Users[your user-id]\AppData\LocalLow\Dropbox\GoogleEarth\myplaces.kml&rdquo;</p></li>
+<li><p>the creation of a file hard link is confirmed</p></li>
+<li><p>type EXIT to close the DOS box`</p></li>
+</ul>
+
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[arcgis Dforrt.dll]]></title>

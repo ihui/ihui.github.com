@@ -1,0 +1,239 @@
+
+<!DOCTYPE html>
+<!--[if IEMobile 7 ]><html class="no-js iem7"><![endif]-->
+<!--[if lt IE 9]><html class="no-js lte-ie8"><![endif]-->
+<!--[if (gt IE 8)|(gt IEMobile 7)|!(IEMobile)|!(IE)]><!--><html class="no-js" lang="en"><!--<![endif]-->
+<head>
+  <meta charset="utf-8">
+  <title>Sync your Google Earth data - Randy WebBoard</title>
+  <meta name="author" content="Randy">
+
+  
+  <meta name="description" content="Do you work lot with Google earth in different computers? and need to tranfer your data such as palcemarkers or lines or area from one to another &hellip;">
+  
+
+  <!-- http://t.co/dKP3o1e -->
+  <meta name="HandheldFriendly" content="True">
+  <meta name="MobileOptimized" content="320">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+
+  
+  <link rel="canonical" href="http://www.geoway.org/blog/2014/04/28/sync-your-google-earth-data">
+  <link href="/favicon.png" rel="icon">
+  <link href="/stylesheets/screen.css" media="screen, projection" rel="stylesheet" type="text/css">
+  <link href="/atom.xml" rel="alternate" title="Randy WebBoard" type="application/atom+xml">
+  <script src="/javascripts/modernizr-2.0.js"></script>
+  <script src="//ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js"></script>
+  <script>!window.jQuery && document.write(unescape('%3Cscript src="./javascripts/lib/jquery.min.js"%3E%3C/script%3E'))</script>
+  <script src="/javascripts/octopress.js" type="text/javascript"></script>
+  <!--Fonts from Google"s Web font directory at http://google.com/webfonts -->
+<link href="http://fonts.googleapis.com/css?family=PT+Serif:regular,italic,bold,bolditalic" rel="stylesheet" type="text/css">
+<link href="http://fonts.googleapis.com/css?family=PT+Sans:regular,italic,bold,bolditalic" rel="stylesheet" type="text/css">
+
+  
+
+</head>
+
+<body   >
+  <header role="banner"><hgroup>
+  <h1><a href="/">Randy WebBoard</a></h1>
+  
+    <h2>life, nature, human.</h2>
+  
+</hgroup>
+
+</header>
+  <nav role="navigation"><ul class="subscription" data-subscription="rss">
+  <li><a href="/atom.xml" rel="subscribe-rss" title="subscribe via RSS">RSS</a></li>
+  
+</ul>
+  
+<form action="http://google.com/search" method="get">
+  <fieldset role="search">
+    <input type="hidden" name="q" value="site:www.geoway.org" />
+    <input class="search" type="text" name="q" results="0" placeholder="Search"/>
+  </fieldset>
+</form>
+  
+<ul class="main-navigation">
+  <li><a href="/">Home</a></li>
+  <li><a href="/blog/archives">Posts</a></li>
+  <li><a href="/links">Useful Links</a></li>
+</ul>
+
+</nav>
+  <div id="main">
+    <div id="content">
+      <div>
+<article class="hentry" role="article">
+  
+  <header>
+    
+      <h1 class="entry-title">Sync Your Google Earth Data</h1>
+    
+    
+      <p class="meta">
+        
+
+
+
+
+
+
+
+
+  
+
+
+<time datetime="2014-04-28T08:54:00+08:00" pubdate data-updated="true">Apr 28<span>th</span>, 2014</time>
+        
+      </p>
+    
+  </header>
+
+
+<div class="entry-content"><p>Do you work lot with Google earth in different computers? and need to tranfer your data such as palcemarkers or lines or area from one to another with USB key? I think you like me want Google Earth to sync them automatically for us. But it does not.</p>
+
+<p>Some guys use cloud services to backup their Google earth data, and fetch data from cloud  on different computers. It&rsquo;s seem like not a bad solution. There is another <a href="http://productforums.google.com/forum/#!topic/earth/gaH1BgwirJk">clever method</a> which use hard link between directory.</p>
+
+<p>Here are steps what he follow:<br/>
+`I use Dropbox and the MKLINK dos-command to sync the Myplaces.kml fille between computers. This is how I did it (for Windows 7):</p>
+
+<ul>
+<li><p>close GE in case it is running</p></li>
+<li><p>make a Google Earth subdir in your Dropbox folder. For example: &ldquo;C:\Users[your user-id]\AppData\LocalLow\Dropbox\GoogleEarth\&rdquo;</p></li>
+<li><p>IMPORTANT: the Dropbox subdir MUST be on the same drive as the original GE subdir!</p></li>
+<li><p>Windows 7: go to &ldquo;C:\Users[your user-id]\AppData\LocalLow\Google\GoogleEarth&rdquo;</p></li>
+<li>copy Myplaces.kml to the Dropbox folder &ldquo;C:\Users[your user-id]\AppData\LocalLow\Dropbox\GoogleEarth\&rdquo;</li>
+<li>make a backup of your Myplaces.kml and store it in a safe location as a backup in case you screw up</li>
+<li>delete Myplaces.kml in &ldquo;C:\Users[your user-id]\AppData\LocalLow\Google\GoogleEarth&rdquo;</li>
+<li>go to the Start menu, type CMD in the search box, do NOT hit enter</li>
+<li>right-click CMD.EXE and click on &lsquo;run as administrator&rsquo;. you will now get the DOS box</li>
+<li><p>type MKLINK /H &ldquo;C:\Users[your user-id]\AppData\LocalLow\Google\GoogleEarth\myplaces.kml&rdquo; &ldquo;C:\Users[your user-id]\AppData\LocalLow\Dropbox\GoogleEarth\myplaces.kml&rdquo;</p></li>
+<li><p>the creation of a file hard link is confirmed</p></li>
+<li><p>type EXIT to close the DOS box`</p></li>
+</ul>
+
+</div>
+
+
+  <footer>
+    <p class="meta">
+      
+  
+
+<span class="byline author vcard">Posted by <span class="fn">Randy</span></span>
+
+      
+
+
+
+
+
+
+
+
+  
+
+
+<time datetime="2014-04-28T08:54:00+08:00" pubdate data-updated="true">Apr 28<span>th</span>, 2014</time>
+      
+
+<span class="categories">
+  
+    <a class='category' href='/blog/categories/gis/'>GIS</a>
+  
+</span>
+
+
+    </p>
+    
+      <div class="sharing">
+  
+  <a href="//twitter.com/share" class="twitter-share-button" data-url="http://www.geoway.org/blog/2014/04/28/sync-your-google-earth-data/" data-via="" data-counturl="http://www.geoway.org/blog/2014/04/28/sync-your-google-earth-data/" >Tweet</a>
+  
+  
+  
+</div>
+
+    
+    <p class="meta">
+      
+        <a class="basic-alignment left" href="/blog/2014/04/26/there-is-no-shortcut/" title="Previous Post: There is No Shortcut">&laquo; There is No Shortcut</a>
+      
+      
+    </p>
+  </footer>
+</article>
+
+</div>
+
+<aside class="sidebar">
+  
+    <section>
+  <h1>Recent Posts</h1>
+  <ul id="recent_posts">
+    
+      <li class="post">
+        <a href="/blog/2014/04/28/sync-your-google-earth-data/">Sync Your Google Earth Data</a>
+      </li>
+    
+      <li class="post">
+        <a href="/blog/2014/04/26/there-is-no-shortcut/">There Is No Shortcut</a>
+      </li>
+    
+      <li class="post">
+        <a href="/blog/2014/03/03/a-earthquake-survey-application/">A Earthquake Survey Application</a>
+      </li>
+    
+      <li class="post">
+        <a href="/blog/2014/01/25/wget-in-windows/">Wget in Windows</a>
+      </li>
+    
+      <li class="post">
+        <a href="/blog/2014/01/25/arcgis-dforrt-dot-dll/">Arcgis Dforrt.dll</a>
+      </li>
+    
+  </ul>
+</section>
+
+
+
+
+
+  
+</aside>
+
+
+    </div>
+  </div>
+  <footer role="contentinfo"><p>
+  Copyright &copy; 2014 - ihui -
+  <span class="credit">Powered by <a href="http://octopress.org">Octopress</a></span>
+</p>
+
+</footer>
+  
+
+
+
+
+
+
+
+  <script type="text/javascript">
+    (function(){
+      var twitterWidgets = document.createElement('script');
+      twitterWidgets.type = 'text/javascript';
+      twitterWidgets.async = true;
+      twitterWidgets.src = '//platform.twitter.com/widgets.js';
+      document.getElementsByTagName('head')[0].appendChild(twitterWidgets);
+    })();
+  </script>
+
+
+
+
+
+</body>
+</html>
