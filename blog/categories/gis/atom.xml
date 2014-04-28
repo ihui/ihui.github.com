@@ -4,7 +4,7 @@
   <title><![CDATA[Category: GIS | Randy WebBoard]]></title>
   <link href="http://www.geoway.org/blog/categories/gis/atom.xml" rel="self"/>
   <link href="http://www.geoway.org/"/>
-  <updated>2014-04-28T09:13:30+08:00</updated>
+  <updated>2014-04-28T09:15:12+08:00</updated>
   <id>http://www.geoway.org/</id>
   <author>
     <name><![CDATA[Randy]]></name>
@@ -23,7 +23,7 @@
 <p>Some guys use cloud services to backup their Google earth data, and fetch data from cloud  on different computers. It&rsquo;s seem like not a bad solution. There is another <a href="http://productforums.google.com/forum/#!topic/earth/gaH1BgwirJk">clever method</a> which use hard link between directory.</p>
 
 <p>Here are steps what he follow:<br/>
-`I use Dropbox and the MKLINK dos-command to sync the Myplaces.kml fille between computers. This is how I did it (for Windows 7):</p>
+``I use Dropbox and the MKLINK dos-command to sync the Myplaces.kml fille between computers. This is how I did it (for Windows 7):</p>
 
 <ul>
 <li><p>close GE in case it is running</p></li>
@@ -37,8 +37,8 @@
 <li>right-click CMD.EXE and click on &lsquo;run as administrator&rsquo;. you will now get the DOS box</li>
 <li><p>type MKLINK /H &ldquo;C:\Users[your user-id]\AppData\LocalLow\Google\GoogleEarth\myplaces.kml&rdquo; &ldquo;C:\Users[your user-id]\AppData\LocalLow\Dropbox\GoogleEarth\myplaces.kml&rdquo;</p></li>
 <li><p>the creation of a file hard link is confirmed</p></li>
-<li><p>type EXIT to close the DOS box<br/>
-`</p></li>
+<li><p>type EXIT to close the DOS box <code>
+</code></p></li>
 </ul>
 
 ]]></content>
