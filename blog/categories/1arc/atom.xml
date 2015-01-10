@@ -4,7 +4,7 @@
   <title><![CDATA[Category: 1arc | Randy WebBoard]]></title>
   <link href="http://www.geoway.org/blog/categories/1arc/atom.xml" rel="self"/>
   <link href="http://www.geoway.org/"/>
-  <updated>2015-01-10T16:14:36+08:00</updated>
+  <updated>2015-01-10T16:16:51+08:00</updated>
   <id>http://www.geoway.org/</id>
   <author>
     <name><![CDATA[Randy]]></name>
@@ -18,7 +18,7 @@
     <link href="http://www.geoway.org/blog/2015/01/10/srtm-30m-dem-global-available/"/>
     <updated>2015-01-10T15:54:00+08:00</updated>
     <id>http://www.geoway.org/blog/2015/01/10/srtm-30m-dem-global-available</id>
-    <content type="html"><![CDATA[<p>Global SRTM 30m resolution DEM are available free now through USGS DATA portal (<a href="http://earthexplorer.usgs.gov">http://earthexplorer.usgs.gov</a>), which is earlier than <a href="http://www.digital-geography.com/announcement-realease-worldwide-high-resultion-srtm-data-30m/#.VLDcNyvDmSl">expect</a>. There are some <a href="http://www.digital-geography.com/srtm-1-1-arc-second-now-available-large-global-coverage/#.VLDb5yvDmSk">places</a> not covered this time. The guy had <a href="http://www.digital-geography.com/short-announcement-quality-check-srtm1/#.VLDdYivDmSk">tested</a> the quality of this dataset quickly. The result seem to be good.</p>
+    <content type="html"><![CDATA[<p>Global SRTM 1Arc second DEM are available free now through USGS DATA portal (<a href="http://earthexplorer.usgs.gov">http://earthexplorer.usgs.gov</a>), which is earlier than <a href="http://www.digital-geography.com/announcement-realease-worldwide-high-resultion-srtm-data-30m/#.VLDcNyvDmSl">expect</a>. There are some <a href="http://www.digital-geography.com/srtm-1-1-arc-second-now-available-large-global-coverage/#.VLDb5yvDmSk">places</a> not covered this time. The guy had <a href="http://www.digital-geography.com/short-announcement-quality-check-srtm1/#.VLDdYivDmSk">tested</a> the quality of this dataset quickly. The result seem to be good.</p>
 
 <p>If you want to download the SRTM1 easily and quickly, you can go <a href="http://e4ftl01.cr.usgs.gov/SRTM/">here</a> and use <a href="http://www.geoway.org/blog/2014/01/25/wget-in-windows/">wget tool</a> to download. The data format is .hgt. Some guy said</p>
 
