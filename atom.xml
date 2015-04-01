@@ -4,7 +4,7 @@
   <title><![CDATA[Randy WebBoard]]></title>
   <link href="http://www.geoway.org/atom.xml" rel="self"/>
   <link href="http://www.geoway.org/"/>
-  <updated>2015-04-01T23:37:54+08:00</updated>
+  <updated>2015-04-02T00:33:51+08:00</updated>
   <id>http://www.geoway.org/</id>
   <author>
     <name><![CDATA[Randy]]></name>
@@ -12,6 +12,15 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Ehang UAV]]></title>
+    <link href="http://www.geoway.org/blog/2015/04/02/ehang-uav/"/>
+    <updated>2015-04-02T00:24:00+08:00</updated>
+    <id>http://www.geoway.org/blog/2015/04/02/ehang-uav</id>
+    <content type="html"><![CDATA[<p>Ehang 4 motors<a href="http://ehang.com/index.php?m=Index&amp;c=Category&amp;a=index&amp;cid=27"> GHOST</a> is a good UAV for aerial photography. You just only need a smart phone to control this model. Its convenince. Another important thing is price. It cost little, especially its lower price of battery.</p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[SRTM 1arc second DEM global available]]></title>
