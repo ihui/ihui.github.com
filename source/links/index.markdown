@@ -1,7 +1,6 @@
 ---
 layout: page
 title: "links"
-date: 2013-11-12 17:06
 comments: true
 sharing: true
 footer: true
@@ -28,23 +27,40 @@ footer: true
 - Olaf Zielke @ [CES of KAUST](http://ces.kaust.edu.sa/Pages/Olaf-Zielke.aspx)  
 
   
-##SRTM V4.1 
+##SRTM  
+###90m global
 
-- FTP: [ftp://srtm.csi.cgiar.org/SRTM_v41/](ftp://srtm.csi.cgiar.org/SRTM_v41/) from [http://vterrain.org/Elevation/SRTM/](http://vterrain.org/Elevation/SRTM/)  
+-  V4.1 , FTP: [ftp://srtm.csi.cgiar.org/SRTM_v41/](ftp://srtm.csi.cgiar.org/SRTM_v41/) from [http://vterrain.org/Elevation/SRTM/](http://vterrain.org/Elevation/SRTM/)  
 
-- cgiar-csi:[http://www.cgiar-csi.org/data/srtm-90m-digital-elevation-database-v4-1](http://www.cgiar-csi.org/data/srtm-90m-digital-elevation-database-v4-1)  
+-  V4.1 , cgiar-csi:[http://www.cgiar-csi.org/data/srtm-90m-digital-elevation-database-v4-1](http://www.cgiar-csi.org/data/srtm-90m-digital-elevation-database-v4-1)  
+  
+- V3 (.hgt format):[http://mirror.ufs.ac.za/datasets/](http://mirror.ufs.ac.za/datasets/) 
+###30m global  
+- [http://earthexplorer.usgs.gov](http://earthexplorer.usgs.gov)  
+- [http://e4ftl01.cr.usgs.gov/SRTM](http://e4ftl01.cr.usgs.gov/SRTM/) .hgt format    
+     
 
 ##Other DEMs  
-- DEM Data Sources Table from [Esri.com](http://downloads2.esri.com/MappingCenter2007/arcGISResources/more/DEM_Data_Sources_Table.pdf)
-
+- DEM Data Sources Table from [Esri.com](http://downloads2.esri.com/MappingCenter2007/arcGISResources/more/DEM_Data_Sources_Table.pdf)  
+- TanDEM-X： [Science Service System](https://tandemx-science.dlr.de/) at DLR
+- [ALOS world 3D Topographic Data](http://alos-world3d.jp/en):5m resolution. need pay.
   
 - free geographic (GIS) data download：  
 [http://www.diva-gis.org/gdata](http://www.diva-gis.org/gdata)  
 - The National Map（USGS） [http://nationalmap.gov/](http://nationalmap.gov/)  
   
-##Imagery  
+##Imagery and DEM download Portal 
 - Landsat8 [http://www.nasa.gov/mission_pages/landsat/main/](http://www.nasa.gov/mission_pages/landsat/main/)  
 download portal： [http://glovis.usgs.gov](http://glovis.usgs.gov)  [http://earthexplorer.usgs.gov](http://earthexplorer.usgs.gov)  
+- [GLCF Earth Science Data Interface](http://glcfapp.glcf.umd.edu:8080/esdi/index.jsp)   
+- 高分卫星 [http://218.247.138.121/DSSPlatform/productSearch.html](http://218.247.138.121/DSSPlatform/productSearch.html) 
+
   
 ##LiDAR  
+
+
+###Path/Row Shapefiles  
+[http://landsat.usgs.gov/tools_wrs-2_shapefile.php](http://landsat.usgs.gov/tools_wrs-2_shapefile.php)  
+
+
 

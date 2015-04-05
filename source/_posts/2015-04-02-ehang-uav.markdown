@@ -1,0 +1,8 @@
+---
+layout: post
+title: "Ehang UAV"
+date: 2015-04-02 00:24
+comments: true
+categories: 
+---
+Ehang 4 motors[ GHOST](http://ehang.com/index.php?m=Index&c=Category&a=index&cid=27) is a good UAV for aerial photography. You just only need a smart phone to control this model. Its convenince. Another important thing is price. It cost little, especially its lower price of battery.
